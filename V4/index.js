@@ -43,9 +43,6 @@ window.onload = function() {
             //x = target.x;
             //y = target.y;
             objW = clienX;
-
-            console.log(clienX);
-
             //objH = clienY - y;
             width = target.width;
             height = target.height;
